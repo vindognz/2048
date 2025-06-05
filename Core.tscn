@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://oxoxthmt8vq2"]
+
+[ext_resource type="Script" uid="uid://bhd6yo2uo35js" path="res://core.gd" id="1_vsfee"]
+
+[node name="Core" type="Node"]
+script = ExtResource("1_vsfee")
+colours = Array[Color]([Color(1, 0, 0, 1), Color(0.96924, 0.368863, 0, 1), Color(0.93491, 0.943172, 0, 1), Color(0, 1, 0, 1)])
